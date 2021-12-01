@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an undergraduate at California Lutheran University expecting to graduate in Spring 2022. After that, I hope to go to grad school.
+I'm an undergraduate at California Lutheran University expecting to graduate in Spring 2022. After that, I hope to go to grad school for a master's degree in Computer Science.
 
 ### 🔭 I’m currently working on:
 - Graduate school applications

@@ -6,11 +6,11 @@ I'm an undergraduate at California Lutheran University expecting to graduate in 
 - Graduate school applications
 - Advent Of Code
 - LeetCode practice
-- Summer Research presentation
+- Capstone
 
 ### 🌱 I’m currently learning:
-- C++
-- Arduino robotics
+- Graphics
+- Signal Protocol
 - More about Linux
 
 ### ⚡ Fun fact:

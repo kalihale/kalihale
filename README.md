@@ -15,7 +15,7 @@ I'm an undergraduate at California Lutheran University expecting to graduate in 
 
 ### ⚡ Fun fact:
 
-Whenever you see `／(•ㅅ•)＼` in my comments, it's just a way for me to tell what I wrote apart from what anyone else wrote. I picked up the habit of marking my comments in a distinctive way from a professor during my first large group project and it stuck. I used to mark my comments with `<@` as an abbreviated version of an text emoticon rose until a friend pointed out it looks like a bird, so now I use a rabbit emoticon.
+Whenever you see `／(^ㅅ^)＼` in my comments, it's just a way for me to tell what I wrote apart from what anyone else wrote. I picked up the habit of marking my comments in a distinctive way from a professor during my first large group project and it stuck. I used to mark my comments with `<@` as an abbreviated version of an text emoticon rose until a friend pointed out it looks like a bird, so now I use a rabbit emoticon.
 
 ## Stats
 

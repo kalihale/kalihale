@@ -1,12 +1,10 @@
 ## Hello, I'm Kali Hale 👋
 
-I'm an undergraduate at California Lutheran University expecting to graduate in Spring 2022. After that, I hope to go to grad school for a master's degree in Computer Science.
+I'm an undergraduate at California Lutheran University graduating in Spring 2022. I plan to go to UCSB for an MSCS starting in Fall 2022.
 
 ### 🔭 I’m currently working on:
-- Graduate school applications
-- Advent Of Code
-- LeetCode practice
 - Capstone
+- Tetris (with ![CSC@CLU](https://github.com/CSC-CLU))
 
 ### 🌱 I’m currently learning:
 - Graphics

@@ -1,14 +1,14 @@
 ## Hello, I'm Kali Hale 👋
 
-I'm an undergraduate at California Lutheran University graduating in Spring 2022. I plan to go to UCSB for an MSCS starting in Fall 2022.
+I'm going to be starting an MSCS at UCSB in Fall of 2022.
 
 ### 🔭 I’m currently working on:
-- Capstone
+- Summer part-time consulting work
 - Tetris (with ![CSC@CLU](https://github.com/CSC-CLU))
 
 ### 🌱 I’m currently learning:
-- Graphics
-- Signal Protocol
+- APIs
+- File manipulation with Python
 - More about Linux
 
 ### ⚡ Fun fact:

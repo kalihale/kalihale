@@ -4,7 +4,8 @@ I'm going to be starting an MSCS at UCSB in Fall of 2022.
 
 ### 🔭 I’m currently working on:
 - Summer part-time consulting work
-- Tetris (with ![CSC@CLU](https://github.com/CSC-CLU))
+- Tetris and a Discord scheduling bot (with ![CSC@CLU](https://github.com/CSC-CLU))
+- LeetCode practice in C++
 
 ### 🌱 I’m currently learning:
 - APIs

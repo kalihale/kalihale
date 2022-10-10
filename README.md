@@ -1,6 +1,6 @@
 ## Hello, I'm Kali Hale 👋
 
-I'm currently pursuing an MSCS at UCSB.
+I graduated from California Lutheran University in May of 2022 and I'm currently pursuing an MSCS at UCSB.
 
 ### 🔭 I’m currently working on:
 - Discord scheduling bot (with ![CSC@CLU](https://github.com/CSC-CLU))

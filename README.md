@@ -3,7 +3,7 @@
 I graduated from California Lutheran University in May of 2022 and I'm currently pursuing an MSCS at UCSB.
 
 ### 🔭 I’m currently working on:
-- LeetCode practice in C++
+- Research projects
 
 ### 🌱 I’m currently learning:
 - About homomorphic encryption

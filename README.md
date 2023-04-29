@@ -3,12 +3,11 @@
 I graduated from California Lutheran University in May of 2022 and I'm currently pursuing an MSCS at UCSB.
 
 ### 🔭 I’m currently working on:
-- Discord scheduling bot (with ![CSC@CLU](https://github.com/CSC-CLU))
 - LeetCode practice in C++
 
 ### 🌱 I’m currently learning:
-- Machine learning basics
-- More about Linux
+- About homomorphic encryption
+- Basics of computer architecture
 
 ### ⚡ Fun fact:
 

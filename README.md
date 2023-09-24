@@ -1,17 +1,6 @@
 ## Hello, I'm Kali Hale 👋
 
-I graduated from California Lutheran University in May of 2022 and I'm currently pursuing an MSCS at UCSB.
-
-### 🔭 I’m currently working on:
-- Research projects
-
-### 🌱 I’m currently learning:
-- About homomorphic encryption
-- Basics of computer architecture
-
-### ⚡ Fun fact:
-
-Whenever you see `／(^ㅅ^)＼` in my comments, it's just a way for me to tell what I wrote apart from what anyone else wrote. I picked up the habit of marking my comments in a distinctive way from a professor during my first large group project and it stuck. I used to mark my comments with `<@` as an abbreviated version of an text emoticon rose until a friend pointed out it looks like a bird, so now I use a rabbit emoticon.
+I'm pursuing my master's in Computer Science at UCSB, expecting to graduate in early 2024. I graduated from California Lutheran University with my bachelor's in Computer Science and a math minor in May 2022. I'm passionate about creating code that is useful to the user, understandable by the programmers, and easily upgradable where possible. I'm currently working on research projects at UCSB and some file management scripts for [Fast Forward Concrete Cutting](https://github.com/FastForwardConcreteCutting).
 
 ## Stats
 

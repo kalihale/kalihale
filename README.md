@@ -5,3 +5,5 @@ I'm pursuing my master's in Computer Science at UCSB, expecting to graduate in e
 ## Stats
 
 ![kalihale github-stats](https://stats.dooboo.io/api/github-stats?login=kalihale)
+
+[stats page:](https://stats.dooboo.io/en)

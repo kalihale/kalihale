@@ -1,6 +1,6 @@
 ## Hello, I'm Kali Hale 👋
 
-I'm pursuing my PhD in Computer Science at UCSB. I graduated from California Lutheran University in May 2022 with my bachelor's in Computer Science and a math minor. I'm passionate about creating code that is useful to the user, understandable by future programmers, and easily upgradable where possible. I'm currently working on research projects at UCSB and some file management scripts for [Fast Forward Concrete Cutting](https://github.com/FastForwardConcreteCutting).
+I'm pursuing my PhD in Computer Science at UCSB under the supervision of Professors Dahlia Malkhi and Trinabh Gupta. Currently, I'm working on projects related to private information retrieval.
 
 ## Stats
 
